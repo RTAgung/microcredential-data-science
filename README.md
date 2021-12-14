@@ -4,8 +4,7 @@
 - [master](https://github.com/RTAgung/microcredential-data-science/tree/master) = semua berkas-berkas pelatihan penuh
 - [deploy](https://github.com/RTAgung/microcredential-data-science/tree/deploy) = hasil tugas akhir yang telah di deploy
 
-## Analisis Prediksi Tingkat Curah Hujan Tahunan
-[*open project*](https://microcred-curah-hujan.herokuapp.com)
+## Analisis Prediksi Tingkat Curah Hujan Tahunan [*(open project)*](https://microcred-curah-hujan.herokuapp.com)
 
 Data diambil dari website resmi Badan Pusat Statistik mengenai iklim Indonesia yang berupa :
 
