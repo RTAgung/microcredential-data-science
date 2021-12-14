@@ -1,6 +1,10 @@
 # Microcredential Data Science
 Sertifikasi Microcredential Data Science yang diselenggarakan oleh Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia
 
+### Branch
+- [master](https://github.com/RTAgung/microcredential-data-science/tree/master) = semua berkas-berkas pelatihan penuh
+- [deploy](https://github.com/RTAgung/microcredential-data-science/tree/deploy) = hasil tugas akhir yang telah di deploy
+
 ### Aktivitas
 - Pelatihan dilaksanakan secara daring/online, peserta belajar secara mandiri (Selfpaced Learning) melalui laptop/komputer.
   - Dilakukan 3 sesi dalam 1 Minggu masing-masing
