@@ -1,6 +1,28 @@
 # Microcredential Data Science
 Sertifikasi Microcredential Data Science yang diselenggarakan oleh Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia
 
+### Aktivitas
+- Pelatihan dilaksanakan secara daring/online, peserta belajar secara mandiri (Selfpaced Learning) melalui laptop/komputer.
+  - Dilakukan 3 sesi dalam 1 Minggu masing-masing
+    - jam pembelajaran sinkron per sesi
+    - jam pembelajaran mandiri per sesi
+- Pada pelatihan ini peserta akan mendapatkan kesempatan bertanya dan berinteraksi dengan Instruktur pada Grup Kelas dan Live Session yang telah disediakan.
+- Untuk lulus di pelatihan ini peserta diharuskan melewati:
+  - Modul belajar dalam bentuk Video, Slide pembelajaran, dan potongan kode program
+  - Ujian dalam bentuk exam
+  - Ujian dalam bentuk praktek
+
+### Output
+- Melakukan pengembangan model berbasis data mengikuti suatu metodologi Data Science
+- Menentukan objektif bisnis, teknis dan Rencana Projek Data Science
+- Mengumpulkan Data
+- Menelaah/ Menganalisis data
+- Menentukan objek atau Memilah Data
+- Membersihkan Data
+- Mengkonstruksi Data
+- Membangun Model
+- Melakukan Deployment Model
+
 ### Kurikulum
 | Pertemuan   ke- | Tema Modul/Materi                                                                | Kode Unit                             | Judul Unit                                                             |
 |:---------------:|----------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------------|
@@ -27,3 +49,15 @@ Sertifikasi Microcredential Data Science yang diselenggarakan oleh Kementerian P
 |        16       | Membangun model 5: evaluasi                                                      | J.62DMI00.014.1       J.62DMI00.015.1 | Mengevaluasi Hasil Pemodelan         Melakukan Proses Review Pemodelan |
 |        17       | Melakukan Deployment Model (pipelining, teknologi deployment,   cara deployment) | J.62DMI00.016.1       J.62DMI00.017.1 | Membuat Rencana Deployment Model         Melakukan Deployment Model    |
 |        18       | UJIAN dan SUBMIT PROJECT                                                         |                                       |                                                                        |
+
+
+### Tugas Akhir
+- Bersifat tugas kelompok
+  - Satu kelompok 3 orang (kecuali satu kelompok yang berjumlah 4 orang)
+  - Anggota kelompok berada dalam satu kelas yang sama
+- Tujuan: Menerapkan Metodologi AI (Data Science) untuk menyelesaikan permasalahan pada satu organisasi (data nyata)
+- Outcome: Suatu aplikasi intelijen dalam bentuk aplikasi berbasis web yang menggunakan pengetahuan hasil dari proses pembelajaran (data science)
+- Data
+  - Data bebas. Sebaiknya dari organisasi atau perusahaan sendiri
+  - Tidak diperbolehkan dari dataset umum seperti dari repositori uci.edu ataupun dataset dari kaggle, netflix atau repositori lainnya
+  - Diperbolehkan dari data awal dari open data dalam negeri seperti Portal Satu Data data.go.id
